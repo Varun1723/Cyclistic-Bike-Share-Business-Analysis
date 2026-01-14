@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "database": "cyclistic_case_study",
+            "name": "Cycle Case Study Analysis",
+            "username": "Cycle",
+            "password": "Cycle#1122",
+            "connectionTimeout": 30
+        }
+    ]
+}
