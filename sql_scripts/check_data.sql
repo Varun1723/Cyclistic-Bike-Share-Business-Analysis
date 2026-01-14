@@ -1,3 +1,0 @@
-SELECT count(1) FROM trips_2019;
-
-SELECT * FROM trips_2019 LIMIT 10;
