@@ -1,6 +1,6 @@
 import pandas as pd
 from pathlib import Path
-FILE_PATH = Path("data/Divvy_Trips_2019_Q2.csv")
+FILE_PATH = Path("data\Divvy_Trips_2019_Q2_Fixed.csv")
 
 def print_headers(path):
     df = pd.read_csv(path)
