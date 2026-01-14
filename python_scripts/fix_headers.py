@@ -1,7 +1,6 @@
 import pandas as pd
 import os
-
-# Define file paths (Adjust these if your folder structure is different)
+# Defining file paths 
 q2_path = 'data\Divvy_Trips_2019_Q2.csv'
 q2_output = 'data\Divvy_Trips_2019_Q2_Fixed.csv'
 
@@ -9,11 +8,9 @@ q2_output = 'data\Divvy_Trips_2019_Q2_Fixed.csv'
 if not os.path.exists(q2_path):
     print(f"Error: Could not find {q2_path}. Please check the file path.")
 else:
-    # Read the Q2 CSV
     df_q2 = pd.read_csv(q2_path)
 
     # Dictionary mapping old messy names to your clean SQL schema names
-    # Based on standard Divvy 2019 Q2 data structure
     new_headers = {
         '01 - Rental Details Rental ID': 'trip_id',
         '01 - Rental Details Local Start Time': 'start_time',
