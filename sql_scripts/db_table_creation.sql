@@ -14,3 +14,7 @@ CREATE TABLE IF NOT EXISTS trips_2019 (
     gender VARCHAR(255),
     birthyear INT
 );
+
+-- 2 new columns were added in data_cleaning.sql
+-- day_of_week VARCHAR(15),
+-- month_name VARCHAR(15);
