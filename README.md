@@ -33,20 +33,24 @@ Analyze 12 months of historical trip data (2019) to identify trends in usage, se
 
 ## 📊 Key Findings & Visualizations
 
-### 1. Weekly Usage: Commuters vs. Weekend Warriors
-**Insight:** Annual members use the service primarily during the workweek (Mon-Fri), indicating a commute-heavy use case. Casual riders dominate the weekends.
+### 1. Weekly Usage: Commuters vs. Weekend Warriors  
+**Insight:** Annual members use the service primarily during the workweek (Mon-Fri), indicating a commute-heavy use case. Casual riders dominate the weekends.  
+[Open Weekly Usage Trends (image)](output/visualisation_visuals/weekly_usage.png)
 
-![Weekly Usage Trends](/output/visualisation_visuals/weekly_usage.png)
+### 2. Seasonality: The Summer Surge  
+**Insight:** Casual ridership is highly seasonal, peaking in June, July, and August, while member ridership remains relatively stable.  
+[Open Seasonality Trends (image)](output/visualisation_visuals/seasonality.png)
 
-### 2. Seasonality: The Summer Surge
-**Insight:** Casual ridership is highly seasonal, peaking in **June, July, and August**, while member ridership remains relatively stable throughout the year.
+### 3. Ride Duration: The Cost of Leisure  
+**Insight:** Casual riders keep bikes for 2x–3x longer than members on average, suggesting leisure/sightseeing use.  
+[Open Ride Duration Comparison (image)](output/visualisation_visuals/ride_duration.png)
 
-![Seasonality Trends](/output/visualisation_visuals/seasonality.png)
+---
 
-### 3. Ride Duration: The Cost of Leisure
-**Insight:** Casual riders keep bikes for **2x-3x longer** than members on average. This suggests they are using the service for leisure/sightseeing rather than point-to-point travel.
-
-![Ride Duration Comparison](/output/visualisation_visuals/ride_duration.png)
+### 📋 Dashboard
+If you’d like to open the dashboard snapshot / workbook in the repo, click below:
+- [Open Tableau Dashboard (PNG)](output/visualisation_visuals/dashboard.png)  
+- If you want an **interactive** dashboard, publish to Tableau Public and link here (see notes below).
 
 ---
 
@@ -76,3 +80,10 @@ Cyclistic_Case_Study/
 ├── sql_scripts/           # SQL queries for cleaning and analysis
 ├── visualizations/        # Exported Tableau charts (PNG/JPG)
 ├── README.md              # Project documentation
+```
+---
+
+## 📜 License
+This project uses public data made available by Motivate International Inc. under the Data License Agreement. The data has been cleaned and analyzed for educational purposes as part of the Google Data Analytics Certificate case study.
+
+> **Data license:** Motivate International Inc. — use of the dataset is subject to the original license terms (public dataset). This repository contains derived analyses and visual exports created for educational use.
