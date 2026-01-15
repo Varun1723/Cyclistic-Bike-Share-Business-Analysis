@@ -35,7 +35,7 @@ Analyze 12 months of historical trip data (2019) to identify trends in usage, se
 
 ### 1. Weekly Usage: Commuters vs. Weekend Warriors  
 **Insight:** Annual members use the service primarily during the workweek (Mon-Fri), indicating a commute-heavy use case. Casual riders dominate the weekends.  
-[Open Weekly Usage Trends (image)](output/visualisation_visuals/Weekly_Usage.png)
+[Open Weekly Usage Trends (image)](output/visualisation_visuals/Weekly_usage.png)
 
 ### 2. Seasonality: The Summer Surge  
 **Insight:** Casual ridership is highly seasonal, peaking in June, July, and August, while member ridership remains relatively stable.  
