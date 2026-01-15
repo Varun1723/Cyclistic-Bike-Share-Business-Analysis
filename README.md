@@ -50,8 +50,7 @@ Analyze 12 months of historical trip data (2019) to identify trends in usage, se
 ### 📋 Dashboard
 If you’d like to open the dashboard snapshot / workbook in the repo, click below:
 - [Open Tableau Dashboard (PNG)](output/visualisation_visuals/dashboard.png)  
-- If you want an **interactive** dashboard, publish to Tableau Public and link here (see notes below).
-
+- If you want an **Interactive dashboard:** [Open in Tableau Public](https://public.tableau.com/app/profile/varun.thakur8085/viz/Tableau_visual1/Sheet1)  
 ---
 
 ## 🚀 Recommendations
