@@ -1,5 +1,5 @@
 # Ignore data directory
 /data/
-
-# Ignore Zip Files directory (space in folder name)
+# Ignore Zip Files directory 
 /Zip Files/
+/.vscode/
