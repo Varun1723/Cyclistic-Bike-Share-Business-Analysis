@@ -54,13 +54,13 @@ If you’d like to open the dashboard snapshot / workbook in the repo, click bel
 ---
 
 ## 📈 Stakeholder Impact & Recommendations
-This project is designed to provide the **Cyclistic Executive Team** and the **Director of Marketing** with the data required to pivot toward a member-conversion strategy[cite: 23, 35].
+This project is designed to provide the **Cyclistic Executive Team** and the **Director of Marketing** with the data required to pivot toward a member-conversion strategy.
 
-* **Who Used It:** Marketing and Executive leadership[cite: 19, 23].
-* **Decision Supported:** Targeted conversion of casual riders into high-profit annual members[cite: 31, 33].
-* **Insight That Mattered:** Significant differences in weekday commuter behavior versus weekend leisure usage[cite: 18, 40].
+* **Who Used It:** Marketing and Executive leadership.
+* **Decision Supported:** Targeted conversion of casual riders into high-profit annual members.
+* **Insight That Mattered:** Significant differences in weekday commuter behavior versus weekend leisure usage.
 
-**[Read the full Stakeholder Impact Report & Detailed Recommendations here →](STAKEHOLDER_IMPACT.md)**
+**[READ IT HERE →](STAKEHOLDER_IMPACT.md)**
 ---
 
 ## 📂 Repository Structure
