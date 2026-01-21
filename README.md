@@ -53,21 +53,14 @@ If you’d like to open the dashboard snapshot / workbook in the repo, click bel
 - If you want an **Interactive dashboard:** [Open in Tableau Public](https://public.tableau.com/app/profile/varun.thakur8085/viz/Tableau_visual1/Sheet1)  
 ---
 
-## 🚀 Recommendations
-Based on the data analysis, here are the top 3 recommendations for the marketing team:
+## 📈 Stakeholder Impact & Recommendations
+This project is designed to provide the **Cyclistic Executive Team** and the **Director of Marketing** with the data required to pivot toward a member-conversion strategy[cite: 23, 35].
 
-1.  **Introduce a "Weekend Warrior" Mini-Membership**
-    * **Why:** Data shows casual riders are most active on Saturdays and Sundays.
-    * **Action:** Create a lower-cost membership tier valid only on weekends (Fri-Sun) to capture the high-volume casual user base without cannibalizing full commuter memberships.
+* **Who Used It:** Marketing and Executive leadership[cite: 19, 23].
+* **Decision Supported:** Targeted conversion of casual riders into high-profit annual members[cite: 31, 33].
+* **Insight That Mattered:** Significant differences in weekday commuter behavior versus weekend leisure usage[cite: 18, 40].
 
-2.  **Launch "Summer Sprint" Campaigns in May**
-    * **Why:** Casual ridership spikes in June.
-    * **Action:** Target casual riders with digital ads one month prior to the peak season (May), offering a seasonal "Summer Pass" promotion.
-
-3.  **Gamify "Leisure Riding" for Members**
-    * **Why:** Casual riders enjoy long trips.
-    * **Action:** Market the Annual Membership as a "Worry-Free" option that removes the stress of single-ride time limits, appealing to riders who want to keep the bike for long leisure rides.
-
+**[Read the full Stakeholder Impact Report & Detailed Recommendations here →](STAKEHOLDER_IMPACT.md)**
 ---
 
 ## 📂 Repository Structure
